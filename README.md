@@ -1,2 +1,3 @@
-# CSharp-part1
-C# Part1
+# C# part1
+
+This repo contains solved homework tasks from C# course
